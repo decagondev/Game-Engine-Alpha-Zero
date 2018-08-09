@@ -1,7 +1,7 @@
 
 # Game Engine - Alpha Zero
 
-This is a project derived from and inspired by the JavaScript Projects at LambdaSchool. They have meen my motivation and inspiration to start making this project and I shall be usuing the things I learn at LambdaSchool to implement more features in to this engine as time goes by. I am currently in the process of learning JavaScript so please bear with me if there are any errors or ommisions in the code base as I go through this journey. all general comments and suggestions are welcome but be advised that this is a side project and shall be progressing slowly. This is being used as one of the methods of me learning and gaining a better understanding of the JavaScript language. and shall be an ongoing project with many refactors and remediations.
+This is a project derived from and inspired by the JavaScript Projects at LambdaSchool. They have been my motivation and inspiration to start making this project and I shall be usuing the things I learn at LambdaSchool to implement more features in to this engine as time goes by. I am currently in the process of learning JavaScript so please bear with me if there are any errors or ommisions in the code base as I go through this journey. all general comments and suggestions are welcome but be advised that this is a side project and shall be progressing slowly. This is being used as one of the methods of me learning and gaining a better understanding of the JavaScript language. and shall be an ongoing project with many refactors and remediations.
 
 ## Getting Started
 
