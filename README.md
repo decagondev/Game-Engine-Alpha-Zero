@@ -11,7 +11,6 @@ To get started with the project and test the examples when they are written, you
 
 You will need a computer with either Windows 7 or above / Mac OSX / or Linux to run this project. You will also need a web browser that supports JavaScript to view the html examples.
 this project has been tested on windows in google chrome and edge browser so if you have either of those you are good to go. I am hoping that you do have a browser of some sort otherwise you may have trouble reading this on github.
-```
 
 ### Installing
 
@@ -26,15 +25,8 @@ my development workflow is using a docker image with linux ubuntu 18.
 nodejs, npm, less, installed from the ubuntu packages. And a shared folder 
 with my local windows 10 machine where I use VSCode to do the editing of the 
 code and run live server to test it under google chrome.
- 
-
-```
-
-
 
 ## Built With
-
-  
 
 *  [HTML5](http://www.dropwizard.io/1.0.2/docs/) - The basic markup for the examples and interfaces
 
@@ -43,7 +35,6 @@ code and run live server to test it under google chrome.
 *  [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript) - The logic and internals of the engine
 * [VSCode](https://code.visualstudio.com/) - The editor used to write the markup, styles and logic
 
-  
 
 ## Contributing
 
